@@ -71,5 +71,6 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
     implementation'com.github.MarhamHealthCare:MarhamAndroidVideoCall:0.0.22'
 //    implementation 'com.github.MarhamHealthCare:MarhamAndroidVideoCall:0.0.17'
+    implementation 'com.github.MarhamHealthCare:MarhamAndroidVideoCall:0.0.24'
 
 }
